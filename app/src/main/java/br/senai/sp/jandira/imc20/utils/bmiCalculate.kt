@@ -11,16 +11,16 @@ fun getStatusBmi(bmi: Double, context: Context): String {
 
  var status = ""
     if(bmi <= 18.5){
-        return "abaixo do peso."
+        return "under weight."
     }else if (bmi <= 25){
-        return "com peso ideal. Parabéns!"
+        return "with ideal weight. Congratulations!"
     }else if (bmi <= 30){
-        return "levemente acima do peso."
+        return "slightly overweight."
     }else if(bmi <= 35 ){
-        return "com obesidade grau I."
+        return "with grade I obesity."
     }else if(bmi <= 40){
-        return "com obesidade grau II"
+        return "with obesity grade II"
     }else{
-        return "com obesidade grau III. Cuidado!"
+        return "with grade III obesity. Watch out!"
     }
 }
