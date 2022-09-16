@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">IMC 2.0</string>
+    <string name="calculate">Calculate</string>
+    <string name="bmi">BMI</string>
+    <string name="login">LOGIN</string>
+    <string name="your_email">Your e-mail</string>
+    <string name="your_password">Your password</string>
+    <string name="new_user">New user registration</string>
+    <string name="your_name">Your name</string>
+    <string name="your_weight">Your weight</string>
+    <string name="your_height">Your height</string>
+    <string name="Email">Email:</string>
+    <string name="password">Password:</string>
+    <string name="height">"Height: "</string>
+    <string name="width">Width:</string>
+    <string name="button_create">Save User</string>
+    <string name="height_2">Height:</string>
+    <string name="logo_senai">SENAI</string>
+    <string name="userName">User name</string>
+    <string name="edit_weight">Weight:</string>
+    <string name="edit_height">"Height: "</string>
+    <string name="user_email">User\'s e-mail</string>
+    <string name="lets_calculate">Let\'s calculate your body mass index now?</string>
+    <string name="result_text">This is the result of your BMI</string>
+    <string name="number_result">23.1</string>
+    <string name="string_weight">Ideal weight!</string>
+    <string name="editText_Weight">Weight</string>
+
+</resources>

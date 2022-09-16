@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IMC 2.0</string>
+    <string name="calculate">Calculatrice</string>
+    <string name="bmi">IMC</string>
+    <string name="login">Connexion</string>
+    <string name="your_email">Voltre e-mail</string>
+    <string name="your_password">Votre mot de passe</string>
+    <string name="new_user">S\'inscrire</string>
+    <string name="Email">Email</string>
+    <string name="width">Width:</string>
+    <string name="button_create" />
+    <string name="userName">User name</string>
+    <string name="edit_weight">Weight:</string>
+    <string name="edit_height">"Height: "</string>
+    <string name="user_email">User\'s e-mail</string>
+    <string name="lets_calculate">Let\'s calculate your body mass index now?</string>
+    <string name="result_text">This is the result of your BMI</string>
+    <string name="string_weight">Ideal weight</string>
+    <string name="weight_calculate">"Weight: "</string>
+    <string name="editText_Weight">Weight</string>
+</resources>
